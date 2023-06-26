@@ -1,0 +1,16 @@
+.menu{
+    width: 1462px;
+    height: 73px;
+    flex-shrink: 0;
+    background: #C3897D;
+}
+.menu-texto{
+    display: flex;
+    width: 283px;
+    height: 32px;
+    flex-direction: column;
+    flex-shrink: 0;
+    color: #FFF;
+font-size: 30px;
+font-family: Inter;
+}
